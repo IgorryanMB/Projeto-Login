@@ -32,3 +32,5 @@ echo ($res4['success'] ? "OK — " : "ERRO — ") . $res4['message'] . "<br><br>
 $res5 = $um->register('Outro João', 'joao@email.com', 'SenhaForte2');
 echo "Caso 5 — Cadastro com e-mail duplicado<br>";
 echo ($res5['success'] ? "OK — " : "ERRO — ") . $res5['message'] . "<br><br>";
+
+?>
