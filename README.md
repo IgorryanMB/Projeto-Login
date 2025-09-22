@@ -23,7 +23,6 @@ reset de senha de usuários.
 3.  No navegador, acesse:
 
 ```{=html}
-<!-- -->
 ```
     http://localhost/Projeto-User-Auth/src/index.php
 
