@@ -3,14 +3,14 @@
 Projeto simples em **PHP** que simula um sistema de cadastro, login e
 reset de senha de usuários.
 
-## 👨‍💻 Integrantes
+## Integrantes
 
--   Guilherme Dalanora Dos Santos --- RA: XXXXXXX
--   Igor Ryan De Mello Barbosa --- RA: XXXXXXX
+-   Igor Ryan De Mello Barbosa - RA: 2008543
+-   Guilherme Dalanora Dos Santos - RA: 1991839
 
 ------------------------------------------------------------------------
 
-## 🚀 Como rodar o projeto
+##  Como rodar o projeto
 
 1.  Copie a pasta `Projeto-User-Auth` para dentro do diretório `htdocs`
     do **XAMPP**:
@@ -29,7 +29,7 @@ reset de senha de usuários.
 
 ------------------------------------------------------------------------
 
-## 📌 Funcionalidades implementadas
+##  Funcionalidades implementadas
 
 -   **Cadastro de usuário**
     -   Valida se o e-mail é válido
@@ -47,7 +47,7 @@ reset de senha de usuários.
 
 ------------------------------------------------------------------------
 
-## 🧪 Exemplos de uso (Casos de teste)
+##  Exemplos de uso (Casos de teste)
 
 1.  **Cadastro válido**
     -   Entrada: nome `Maria Oliveira`, email `maria@email.com`, senha
@@ -68,7 +68,7 @@ reset de senha de usuários.
 
 ------------------------------------------------------------------------
 
-## ⚠️ Limitações
+##  Limitações
 
 -   Dados armazenados apenas em arrays (sem banco de dados)
 -   Não há interface gráfica, apenas execução em scripts PHP
