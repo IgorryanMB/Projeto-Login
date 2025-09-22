@@ -12,17 +12,17 @@ reset de senha de usuários.
 
 ##  Como rodar o projeto
 
-1.  Copie a pasta `Projeto-User-Auth` para dentro do diretório `htdocs`
+1.  Copie a pasta `Projeto-Login-main` para dentro do diretório `htdocs`
     do **XAMPP**:
 
-    -   **Windows** → `C:\xampp\htdocs\Projeto-User-Auth`
-    -   **Linux** → `/opt/lampp/htdocs/Projeto-User-Auth`
+    -   **Windows** → `C:\xampp\htdocs\Projeto-Login-main`
+    -   **Linux** → `/opt/lampp/htdocs/Projeto-Login-main`
 
 2.  Inicie o **Apache** pelo painel do XAMPP.
 
 3.  No navegador, acesse:
 ```
-http://localhost/Projeto-User-Auth/src/index.php
+http://localhost/Projeto-Login-main/src/index.php
 ```
 
 ------------------------------------------------------------------------
