@@ -21,8 +21,6 @@ reset de senha de usuários.
 2.  Inicie o **Apache** pelo painel do XAMPP.
 
 3.  No navegador, acesse:
-
-```
 ```
     http://localhost/Projeto-User-Auth/src/index.php
 
